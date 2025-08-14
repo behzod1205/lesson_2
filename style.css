@@ -338,3 +338,12 @@
     width: 1440;
     height: 865;
 }
+
+.content_3{
+    width: 1050;
+    height: 928;
+    padding-top: 160px;
+    padding-bottom: 160px;
+    gap: 96px;
+
+}
